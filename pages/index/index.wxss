@@ -4,7 +4,10 @@
   flex-direction: column;
   align-items: center;
 }
-
+.ws{
+  width: 100rpx;
+  height: 300rpx;
+}
 .userinfo-avatar {
   width: 128rpx;
   height: 128rpx;
